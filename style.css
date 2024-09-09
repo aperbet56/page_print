@@ -54,4 +54,6 @@ p {
     color: #f7f7f7;
     padding: 0.5rem 1rem;
     border-radius: 0.3rem;
+    cursor: pointer;
+    margin-bottom: 2.5rem;
 }
