@@ -6,7 +6,7 @@ Création d'une page ou l'internaute n'a qu'à cliquer sur le bouton imprimer po
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/page_print/
 
 ## Développez avec
 
